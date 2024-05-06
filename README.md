@@ -1,5 +1,5 @@
 # Blaise-obidinnu
-I'm a DevOps Engineer and a Chemical Engineer,I'm deeply enthusiastic about continuously enhancing my technological skill set.
+I'm a DevOps Engineer and a Chemical Engineer,who is deeply enthusiastic about continuously enhancing my technological skill set.
 **Here's a quick summary about me**:
 - I’m open to collaborations with like-minded people like you to build amazing projects
 - I’m looking for help with open-source projects,internships, and entry-level opportunities.
