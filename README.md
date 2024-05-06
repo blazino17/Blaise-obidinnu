@@ -1,6 +1,5 @@
 # Blaise-obidinnu
-A Readme file about my profile
-Welcome, I'm sure you'd stick around.
+-Welcome, I'm sure you'd stick around.
 I'm a DevOps Engineer and a Chemical Engineer,I'm deeply enthusiastic about continuously enhancing my technological skill set.
 **Here's a quick summary about me**:
 - I’m open to collaborations with like-minded people like you to build amazing projects
