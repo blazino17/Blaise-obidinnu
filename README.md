@@ -2,7 +2,7 @@
 A Readme file about my profile
 
 Welcome, I'm sure you'd stick around.
-I'm a DevOps Engineer and a Chemical Engineer who is deeply enthusiastic about continuously enhancing my technological skill set.
+I'm a DevOps and Chemical Engineer who is deeply enthusiastic about continuously enhancing my technological skill set.
 
 **Here's a quick summary about me**:
 - I’m open to collaborations with like-minded people like you to build amazing projects
@@ -10,4 +10,5 @@ I'm a DevOps Engineer and a Chemical Engineer who is deeply enthusiastic about c
 - core aspect - containerization using technologies like Docker, kubernetes.
 - continous integration and deployment
 - terraform, azure Devops, Ansible, jenkins, microservices, infrastructure as code.
+- programming language-python,html5,css3, javascript
 - AWS, Azure and Google Cloud.
