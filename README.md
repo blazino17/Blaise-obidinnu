@@ -10,5 +10,5 @@ I'm a DevOps Engineer and a Chemical Engineer,I'm deeply enthusiastic about cont
 - 💼I’m looking for help with open-source projects,internships, and entry-level opportunities.
 -😊core aspect - containerization using technologies like Docker, kubernetes.
 - 😊continous integration and deployment
-- 😊terraform, azure Devops, Ansible, jenkins, microservices, infrastructure as code.
+- 😊terraform, azure Devops, Ansible, jenkins, microservices, infrastructure as code, Git versioning
 -😊AWS, Azure and Google Cloud.
